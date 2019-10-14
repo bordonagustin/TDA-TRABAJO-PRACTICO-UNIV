@@ -249,7 +249,8 @@ int menu(){
     scanf("%d", &opcion);
     return opcion;
 }
-//adasd
+
+//PATO ESCRIBO ACA!
 
 int subMenuAlta(){
     int opcionSubAlta;
