@@ -11,6 +11,13 @@
 // este otro cambio en el main
 //PATO ESCRIBO ACA!
 //AJJAJAJAJAJ
+// aca hay otr comentario
+/*
+asfafsg
+asdfasgf
+asasf
+asfasf
+*/
 void presentacion();
 int menu();
 int subMenuAlta();
@@ -30,8 +37,8 @@ void ordenarIntegrantesPorNombre(Materia m);
 ////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////
 //VARIABLES GLOBALES
-int cantInt = 0; //VARIABLE GLOBAL ---> TAMAÑO DEL VECTOR DE INTEGRANTES, BUSCAR ALTERNATIVA
-int cantMat = 0;//VARIABLE GLOBAL ---> TAMAÑO DEL VECTOR DE MATERIAS
+int cantInt = 0; //VARIABLE GLOBAL ---> TAMAï¿½O DEL VECTOR DE INTEGRANTES, BUSCAR ALTERNATIVA
+int cantMat = 0;//VARIABLE GLOBAL ---> TAMAï¿½O DEL VECTOR DE MATERIAS
 
 Carreras vectorMateria[10];
 
@@ -40,7 +47,7 @@ void cargarVectorDeIntegrantes(Integrantes vectorIntegrantes[10]); //CARGA EL VE
 Integrantes leerIntegrante(char variableIntegrante[], char delimitador, Integrantes i); //RETORNA UN INTEGRANTE
 void mostrarVectorDeIntegrantes(Integrantes vectorIntegrantes[10]); //MUESTRA EL VECTOR DE INTEGRANTES
 
-//PYF VECTOR MATERIAS(MODIFICAR EL TAMAÑO DE VectorMateria SI SE QUIERE EXPANDIR EL TXT)
+//PYF VECTOR MATERIAS(MODIFICAR EL TAMAï¿½O DE VectorMateria SI SE QUIERE EXPANDIR EL TXT)
 void cargarVectorDeMaterias(Materia vectorMateria[10]); //CARGA EL VECTOR DE MATERIAS
 Materia leerMaterias(char variableMateria[], char delimitador, Materia m); //RETORNA UNA MATERIA
 void mostrarVectorDeMaterias(Materia vectorMateria[10]); //MUESTRA EL VECTOR DE MATERIA
@@ -239,12 +246,12 @@ void presentacion(){
 int menu(){
     int opcion;
     printf("\nPor favor ingrese una opcion:\n");
-    printf("1- ALTA\n"); //para mí hay que llamar a la funcion de listas "INSERTARFIN" y al terminar hacer un GRABADO en archivo txt con "a" o "w" según convenga
-    printf("2- MOSTRAR\n"); // procedimientos de cada procedimiento que està acà abajo en el MAIN por ahora (hasta ahora solo de vectorIntegrantes para la materia
+    printf("1- ALTA\n"); //para mï¿½ hay que llamar a la funcion de listas "INSERTARFIN" y al terminar hacer un GRABADO en archivo txt con "a" o "w" segï¿½n convenga
+    printf("2- MOSTRAR\n"); // procedimientos de cada procedimiento que estï¿½ acï¿½ abajo en el MAIN por ahora (hasta ahora solo de vectorIntegrantes para la materia
     printf("3- ELIMINAR\n");//IDEM ALTA: hay que llamar a la funcion de listas, en este caso "REMOVER"
-                            //y al terminar hacer un GRABADO en archivo txt con "a" o "w" según convenga
+                            //y al terminar hacer un GRABADO en archivo txt con "a" o "w" segï¿½n convenga
     printf("4- MODIFICAR\n"); // SETTS de cada TDA
-                            //y al terminar hacer un GRABADO en archivo txt con "a" o "w" según convenga
+                            //y al terminar hacer un GRABADO en archivo txt con "a" o "w" segï¿½n convenga
     printf("5- BUSCAR\n"); //procedimientos q estan aca abajo en el main
     printf("6- ORDENAR\n");//procedimientos q estan aca abajo en el main
     //printf("7- GUARDAR\n");
@@ -423,7 +430,7 @@ void cargarVectorDeIntegrantes(Integrantes vectorIntegrantes[10]){
         }
     }
     fclose(archivoIntegrante);
-    cantInt = i; //VARIABLE GLOBAL ---> TAMAÑO DEL VECTOR DE INTEGRANTES, BUSCAR ALTERNATIVA
+    cantInt = i; //VARIABLE GLOBAL ---> TAMAï¿½O DEL VECTOR DE INTEGRANTES, BUSCAR ALTERNATIVA
 }
 
 Integrantes leerIntegrante(char variableIntegrante[], char delimitador, Integrantes i){
