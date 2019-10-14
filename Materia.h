@@ -17,7 +17,7 @@ Materia crearMateria(int codigom, char nombrem[30]);
 void destructorMateria(Materia m);
 
 //AGREGAR INTEGRANTES EN CUALQUIER MOMENTO
-
+//aca
 //GETTERS
 int getCodigoMat(Materia m);
 char * getNombreMat(Materia m);
