@@ -7,17 +7,7 @@
 #include "Carrera.h"
 #include "Departamento.h"
 #include "Universidad.h"
-// es es un comentario en el main
-// este otro cambio en el main
-//PATO ESCRIBO ACA!
-//AJJAJAJAJAJ
-// aca hay otr comentario
-/*
-asfafsg
-asdfasgf
-asasf
-asfasf
-*/
+
 void presentacion();
 int menu();
 int subMenuAlta();

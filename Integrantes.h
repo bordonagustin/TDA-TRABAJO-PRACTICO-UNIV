@@ -10,7 +10,7 @@ struct EstructuraIntegrantes{
 };
 
 typedef struct EstructuraIntegrantes * Integrantes;
-// un comentario nuevo para probar
+
 //CONSTRUCTORES
 Integrantes crearIntegrantes (char nombreA[20],char apellidoA[20],int dniA,int docOAluma,int codigoMateria);
 Integrantes crearIntegrantesPorTeclado();

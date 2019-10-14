@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "Integrantes.h"
-// mas cambios en materias
+
 //CREAR INTEGRANTES CON PARAMETROS
 Integrantes crearIntegrantes (char nombreA[20], char apellidoA[20], int dniA, int docOAluma,int codigoMateria){
     Integrantes x = malloc(sizeof(struct EstructuraIntegrantes));
