@@ -9,6 +9,8 @@
 #include "Universidad.h"
 // es es un comentario en el main
 // este otro cambio en el main
+//PATO ESCRIBO ACA!
+//AJJAJAJAJAJ
 void presentacion();
 int menu();
 int subMenuAlta();
@@ -251,7 +253,7 @@ int menu(){
     return opcion;
 }
 
-//PATO ESCRIBO ACA!
+
 
 int subMenuAlta(){
     int opcionSubAlta;
