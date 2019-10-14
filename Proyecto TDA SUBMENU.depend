@@ -1,0 +1,455 @@
+# depslib dependency file v1.0
+1569282599 source:c:\users\usuario\desktop\her\submenu\tda-submenu\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1569275482 c:\users\usuario\desktop\her\submenu\tda-submenu\integrantes.h
+
+1569275611 c:\users\usuario\desktop\her\submenu\tda-submenu\materia.h
+
+1569277709 c:\users\usuario\desktop\her\submenu\tda-submenu\carrera.h
+
+1569283870 source:c:\users\usuario\desktop\her\submenu\tda-submenu\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1569283507 c:\users\usuario\desktop\her\submenu\tda-submenu\departamento.h
+
+1569282131 source:c:\users\usuario\desktop\her\submenu\tda-submenu\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\usuario\desktop\her\submenu\tda-submenu\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570239762 c:\users\usuario\desktop\her\submenu\tda-submenu\lista.h
+	"Integrantes.h"
+
+1569282348 source:c:\users\usuario\desktop\her\submenu\tda-submenu\materia.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Integrantes.h"
+	"Materia.h"
+
+1569282485 source:c:\users\usuario\desktop\her\submenu\tda-submenu\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569280543 c:\users\usuario\desktop\her\submenu\tda-submenu\universidad.h
+
+1570377750 source:c:\users\usuario\desktop\her\submenu\tda-submenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569282599 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1569275482 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\integrantes.h
+
+1569275611 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\materia.h
+
+1569277709 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\carrera.h
+
+1569283870 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1569283507 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\departamento.h
+
+1569282131 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570239762 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\lista.h
+	"Integrantes.h"
+
+1570394646 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569280543 c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\universidad.h
+
+1569282348 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\materia.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Integrantes.h"
+	"Materia.h"
+
+1569282485 source:c:\users\usuario\desktop\her\submenu\tda con menu y sub funcionando\tda-submenu-funcionando\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569282599 source:c:\users\lucas\documents\6 octubre\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1569275482 c:\users\lucas\documents\6 octubre\integrantes.h
+
+1569275611 c:\users\lucas\documents\6 octubre\materia.h
+
+1569277709 c:\users\lucas\documents\6 octubre\carrera.h
+
+1569283870 source:c:\users\lucas\documents\6 octubre\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1569283507 c:\users\lucas\documents\6 octubre\departamento.h
+
+1569282131 source:c:\users\lucas\documents\6 octubre\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\lucas\documents\6 octubre\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570239762 c:\users\lucas\documents\6 octubre\lista.h
+	"Integrantes.h"
+
+1570418297 source:c:\users\lucas\documents\6 octubre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569280543 c:\users\lucas\documents\6 octubre\universidad.h
+
+1569282348 source:c:\users\lucas\documents\6 octubre\materia.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Integrantes.h"
+	"Materia.h"
+
+1569282485 source:c:\users\lucas\documents\6 octubre\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569282599 source:c:\users\lucas\documents\tp actualiz. 7 oct\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1569275482 c:\users\lucas\documents\tp actualiz. 7 oct\integrantes.h
+
+1569275611 c:\users\lucas\documents\tp actualiz. 7 oct\materia.h
+
+1569277709 c:\users\lucas\documents\tp actualiz. 7 oct\carrera.h
+
+1570757103 source:c:\users\lucas\documents\tp actualiz. 7 oct\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1570757088 c:\users\lucas\documents\tp actualiz. 7 oct\departamento.h
+
+1569282131 source:c:\users\lucas\documents\tp actualiz. 7 oct\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\lucas\documents\tp actualiz. 7 oct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570574944 c:\users\lucas\documents\tp actualiz. 7 oct\lista.h
+	"Integrantes.h"
+
+1570759565 source:c:\users\lucas\documents\tp actualiz. 7 oct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569280543 c:\users\lucas\documents\tp actualiz. 7 oct\universidad.h
+
+1569282348 source:c:\users\lucas\documents\tp actualiz. 7 oct\materia.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Integrantes.h"
+	"Materia.h"
+
+1569282485 source:c:\users\lucas\documents\tp actualiz. 7 oct\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569282599 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1569275482 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\integrantes.h
+
+1569275611 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\materia.h
+
+1569277709 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\carrera.h
+
+1570832222 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1570831985 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\departamento.h
+
+1569282131 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570574944 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\lista.h
+	"Integrantes.h"
+
+1569282348 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\materia.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Integrantes.h"
+	"Materia.h"
+
+1570835738 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1570831985 c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\universidad.h
+
+1570835455 source:c:\users\melina.melina-pc\desktop\tp actualiz. 10 oct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1569282599 source:c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1570973157 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\integrantes.h
+
+1570975858 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\materia.h
+
+1569277709 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\carrera.h
+
+1570832222 source:c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1570831985 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\departamento.h
+
+1570240040 source:c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570574944 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\lista.h
+	"Integrantes.h"
+
+1570835738 source:c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1570831985 c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\universidad.h
+
+1570980083 source:c:\users\usuario\desktop\her\tp actualiz.11 oct\tp actualiz. 11 oct\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1569282599 source:c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\carrera.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+
+1570973157 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\integrantes.h
+
+1570975858 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\materia.h
+
+1569277709 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\carrera.h
+
+1570832222 source:c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\departamento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+
+1570831985 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\departamento.h
+
+1570980083 source:c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\integrantes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+
+1570240040 source:c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Integrantes.h"
+
+1570574944 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\lista.h
+	"Integrantes.h"
+
+1570835738 source:c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\universidad.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Integrantes.h"
+	"Materia.h"
+	"Carrera.h"
+	"Departamento.h"
+	"Universidad.h"
+
+1570831985 c:\users\usuario\desktop\her\tp actualiz.12 oct\tp actualiz. 12 oct\universidad.h
+

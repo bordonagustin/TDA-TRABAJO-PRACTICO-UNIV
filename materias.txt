@@ -1,0 +1,6 @@
+Programacion+1
+MatematicaI+2
+MatematicaII+3
+Arquitectura+4
+Ipc+5
+InglesI+6
