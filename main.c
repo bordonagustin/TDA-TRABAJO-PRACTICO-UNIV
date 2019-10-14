@@ -249,7 +249,7 @@ int menu(){
     scanf("%d", &opcion);
     return opcion;
 }
-
+//adasd
 
 int subMenuAlta(){
     int opcionSubAlta;
